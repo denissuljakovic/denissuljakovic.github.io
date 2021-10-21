@@ -1,7 +1,7 @@
 # denissuljakovic.github.io
 CS412 Project Depository
 
-<!DOCTYPE html>
+
 <html>
 <head>
     <meta charset='utf-8'>
@@ -193,5 +193,4 @@ CS412 Project Depository
 
     
 
-</body>
-</html>
+
